@@ -1,3 +1,5 @@
+<img src="https://github.com/ry-ops/minimal/blob/master/content/posts/a2a-protocol/a2a.png" width="100%">
+
 # Grafana MCP Server
 
 A Model Context Protocol (MCP) server that provides seamless integration between Claude AI and Grafana's HTTP API. This server enables AI agents to interact with Grafana dashboards, datasources, alerts, and more through a standardized protocol, with built-in support for agent-to-agent (a2a) communication patterns.
