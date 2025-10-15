@@ -220,7 +220,6 @@ This MCP server is designed with a2a communication in mind:
 
 ## Architecture
 
-```
 ┌─────────────────┐
 │   Claude AI     │
 │  (MCP Client)   │
@@ -246,7 +245,6 @@ This MCP server is designed with a2a communication in mind:
 │   Grafana API   │
 │  (HTTP Server)  │
 └─────────────────┘
-```
 
 ## Development
 
