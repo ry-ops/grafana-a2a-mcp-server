@@ -1,4 +1,4 @@
-<img src="https://github.com/ry-ops/minimal/blob/master/content/posts/a2a-protocol/a2a.png" width="100%">
+<img src="https://github.com/ry-ops/grafana-a2a-mcp-server/blob/main/grafana_a2a_mcp.png" width="100%">
 
 # Grafana MCP Server
 
